@@ -1,0 +1,41 @@
+img{
+  display: block;
+  margin: auto;
+}
+body {
+  background-color: green;
+  color:black;
+  }
+p{
+  font-family: "Courier New";
+}
+h1{
+  font-family: "Courier New"
+}
+
+#regularShow{
+  background-color: #f27a10;
+  font-family: Courier;
+  border-top:"7px;border-bottom:7px;border-left:5px;border-right:5px"
+
+}
+#school{
+  background-color: #f27a10;
+  font-family: Courier;
+  border-top:"7px;border-bottom:7px;border-left:5px;border-right:5px;"
+}
+#bold{
+  font-weight: bold;
+
+}
+#centerone{
+  text-align:center;
+}
+#firstPic{
+  width:300px;
+  height:300px;
+}
+.pictwo{
+  max-width:40px;
+  height:20px;
+}
